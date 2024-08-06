@@ -10,8 +10,7 @@
     border-radius: 15px;
     box-shadow: 10px 0px 35px 0 rgb(0, 0, 0,.5);
     padding: 3rem 2rem;
-    background: rgb(147,10,10);
-background: linear-gradient(90deg, rgba(147,10,10,1) 30%, rgba(255,0,0,0.9220063025210083) 100%);
+    background: linear-gradient(90deg, rgb(17 139 134 / 18%) 30%, rgb(255 0 0 / 48%) 100%);
 }
 
 h1{

@@ -33,6 +33,8 @@ const PackageData = [
 ];
 
 
+export default PackageData;
+
 
 
 
